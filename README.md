@@ -1,16 +1,16 @@
 # Sharafath Shaikh — Portfolio
 
-Personal portfolio of Sharafath Shaikh, Full Stack Java Developer in Chennai.
+Personal portfolio of Sharafath Shaikh — Full Stack Java Developer in Chennai.
 
-Built with HTML, CSS and JavaScript. Open `index.html` to preview locally.
+Built with HTML, CSS and JavaScript. Open index.html to preview locally.
 
-## Publish
-In Settings → Pages, select Deploy from a branch, main, /(root), then Save.
+## Publish on GitHub Pages
+Go to Settings → Pages. Choose Deploy from a branch, main, /(root), then Save.
 
-## Files
-- index.html: portfolio content
-- styles.css: responsive navy and yellow design
-- script.js: footer year
-- resume.pdf: resume extracted from the supplied portfolio
+Website address after publishing: https://sharu4624.github.io/
 
-Website: https://sharu4624.github.io/
+## Edit
+- index.html: content and profile links
+- styles.css: responsive layout
+- script.js: current year
+- resume.pdf: resume from the supplied portfolio
